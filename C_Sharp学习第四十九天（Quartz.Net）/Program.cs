@@ -10,7 +10,7 @@ namespace C_Sharp学习第四十九天_Quartz.Net_
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("雷好啊");
         }
     }
 }
